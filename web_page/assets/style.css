@@ -1,0 +1,18 @@
+/*
+  External CSS Stylesheet
+ */
+
+/* Styling for HTML elements */
+body {
+  background: #07e586;
+}
+
+h1 {
+  font-size: 100px;
+
+}
+
+.navbar {
+  padding: 20px;
+  background: #5191fd;
+}
